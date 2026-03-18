@@ -1,2 +1,2 @@
 print("hi Anjani")
-print("Happy Ugadi")
+print("Happy Ugadi to all of you")
